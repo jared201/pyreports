@@ -1,3 +1,5 @@
+
+![img_1.png](img_1.png)
 ## PyReport
 This is a simple python script that generates a report from a given text file. The script reads the text file and generates a report based on the word count of each word in the text file. The report is then saved in a text file with the name of the input file appended with "_report".
 
