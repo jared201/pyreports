@@ -1,0 +1,12 @@
+[
+    {"product_id": "1", "product_name": "iPhone 13", "product_description": "Latest iPhone model", "list_price": "799", "cost": "699"},
+    {"product_id": "2", "product_name": "MacBook Pro", "product_description": "High performance laptop", "list_price": "1299", "cost": "1199"},
+    {"product_id": "3", "product_name": "iPad Pro", "product_description": "Latest iPad model", "list_price": "799", "cost": "699"},
+    {"product_id": "4", "product_name": "Apple Watch", "product_description": "Smart watch", "list_price": "399", "cost": "349"},
+    {"product_id": "5", "product_name": "AirPods Pro", "product_description": "Wireless earbuds", "list_price": "249", "cost": "199"},
+    {"product_id": "6", "product_name": "Apple TV", "product_description": "Streaming device", "list_price": "179", "cost": "149"},
+    {"product_id": "7", "product_name": "iMac", "product_description": "All-in-one desktop computer", "list_price": "1299", "cost": "1199"},
+    {"product_id": "8", "product_name": "Mac Mini", "product_description": "Compact desktop computer", "list_price": "699", "cost": "649"},
+    {"product_id": "9", "product_name": "HomePod Mini", "product_description": "Smart speaker", "list_price": "99", "cost": "89"},
+    {"product_id": "10", "product_name": "AirTag", "product_description": "Item tracker", "list_price": "29", "cost": "25"}
+]
